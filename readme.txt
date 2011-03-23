@@ -3,10 +3,11 @@ Contributors: Gaetano Caruana
 Tags: Ligue1 Classement, Ligue1 France, Ligue1 Table, French football, French ligue1 table
 Requires at least: 2.8
 Tested up to: 3.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 
 == Description ==
+
 
 Always get the latest Ligue1 Table using this plugin.
 
